@@ -99,6 +99,26 @@
         "address": "Hampi, Karnataka",
         "image": "https://www.india.com/wp-content/uploads/2018/09/Vitthala-Temple-Hampi.jpg"
       }
+    },
+     {
+    "type": "tourist-spot",
+    "id": "11",
+    "attributes": {
+      "name": "Bhangarh Fort",
+      "description": "Bhangarh Fort is a haunted fort located in the Alwar district of Rajasthan, India. It is famous for its spooky legends and is considered one of the most haunted places in India.",
+      "address": "Alwar, Rajasthan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bhangarh_Fort%2C_Rajasthan%2C_India.jpg"
     }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "12",
+    "attributes": {
+      "name": "Dumas Beach",
+      "description": "Dumas Beach is a popular beach located along the Arabian Sea in Surat, Gujarat. It is known for its eerie atmosphere and ghostly stories associated with the place.",
+      "address": "Surat, Gujarat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Dumas_Beach%2C_Gujarat.jpg"
+    }
+  }
   ]
 }
