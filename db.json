@@ -118,6 +118,168 @@
       "address": "Surat, Gujarat",
       "image": "https://images.indianexpress.com/2022/07/dumas-two.jpg?resize=600,450"
     }
+  },
+    ,
+  {
+    "type": "tourist-spot",
+    "id": "13",
+    "attributes": {
+      "name": "Dow Hill, Kurseong",
+      "description": "Dow Hill in Kurseong, West Bengal, is notorious for its haunted forest and the ominous sounds of footsteps heard by locals and visitors alike.",
+      "address": "Kurseong, West Bengal",
+      "image": "https://example.com/dow-hill.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "14",
+    "attributes": {
+      "name": "Ramoji Film City",
+      "description": "Ramoji Film City in Hyderabad, Telangana, is not only a popular film studio but also rumored to be haunted. Several paranormal activities have been reported on the sets.",
+      "address": "Hyderabad, Telangana",
+      "image": "https://example.com/ramoji-film-city.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "15",
+    "attributes": {
+      "name": "Dow Hill, Kurseong",
+      "description": "Dow Hill in Kurseong, West Bengal, is notorious for its haunted forest and the ominous sounds of footsteps heard by locals and visitors alike.",
+      "address": "Kurseong, West Bengal",
+      "image": "https://example.com/dow-hill.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "16",
+    "attributes": {
+      "name": "Morgan House",
+      "description": "Morgan House in Kalimpong, West Bengal, is a haunted mansion known for its ghostly apparitions and strange occurrences experienced by guests.",
+      "address": "Kalimpong, West Bengal",
+      "image": "https://example.com/morgan-house.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "17",
+    "attributes": {
+      "name": "GP Block",
+      "description": "GP Block in Meerut, Uttar Pradesh, is an abandoned mansion believed to be haunted by the ghosts of a group of friends who died under mysterious circumstances.",
+      "address": "Meerut, Uttar Pradesh",
+      "image": "https://example.com/gp-block.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "18",
+    "attributes": {
+      "name": "Dumas Beach",
+      "description": "Dumas Beach, located in Gujarat, is believed to be haunted. It is known for its black sand, mysterious sounds, and paranormal experiences reported by visitors.",
+      "address": "Surat, Gujarat",
+      "image": "https://example.com/dumas-beach.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "19",
+    "attributes": {
+      "name": "Fernhill Hotel",
+      "description": "Fernhill Hotel in Ooty, Tamil Nadu, is a reputed haunted hotel where guests have reported encountering supernatural phenomena and sightings of apparitions.",
+      "address": "Ooty, Tamil Nadu",
+      "image": "https://example.com/fernhill-hotel.jpg"
+    }
+  },
+  {
+    "type": "tourist-spot",
+    "id": "20",
+    "attributes": {
+      "name": "Brij Raj Bhavan Palace",
+      "description": "Brij Raj Bhavan Palace in Kota, Rajasthan, is believed to be haunted by the ghost of Major Burton, a British officer who was killed during the 1857 uprising.",
+      "address": "Kota, Rajasthan",
+      "image": "https://example.com/brij-raj-bhavan-palace.jpg"
+    }
+  },{
+  "type": "tourist-spot",
+  "id": "21",
+  "attributes": {
+    "name": "Shimla",
+    "description": "Shimla is the capital city of the Indian state of Himachal Pradesh. It is a popular hill station known for its pleasant weather, colonial architecture, and scenic views of the Himalayas.",
+    "address": "Shimla, Himachal Pradesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Shimla_The_Mall.jpg"
   }
+},{
+  "type": "tourist-spot",
+  "id": "22",
+  "attributes": {
+    "name": "Darjeeling",
+    "description": "Darjeeling is a beautiful hill town located in the Indian state of West Bengal. It is famous for its tea gardens, toy train, panoramic views of the Kangchenjunga peak, and pleasant weather.",
+    "address": "Darjeeling, West Bengal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Darjeeling_Panorama.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "23",
+  "attributes": {
+    "name": "Manali",
+    "description": "Manali is a picturesque hill station situated in the Indian state of Himachal Pradesh. It offers breathtaking views of the snow-capped mountains, lush valleys, and serene landscapes, making it a popular destination for tourists.",
+    "address": "Manali, Himachal Pradesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Manali_Mall_Road_Night.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "24",
+  "attributes": {
+    "name": "Nainital",
+    "description": "Nainital is a popular hill station situated in the Indian state of Uttarakhand. It is known for its sparkling lakes, lush green hills, pleasant weather, and a range of outdoor activities like boating, trekking, and wildlife viewing.",
+    "address": "Nainital, Uttarakhand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/View_of_Nainital_Lake_and_Town.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "25",
+  "attributes": {
+    "name": "Munnar",
+    "description": "Munnar is a breathtaking hill station located in the Western Ghats of Kerala, India. It is known for its tea estates, mist-covered hills, waterfalls, and pleasant climate, making it a popular destination for nature lovers.",
+    "address": "Munnar, Kerala",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Munnar_hill_station_kerala.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "26",
+  "attributes": {
+    "name": "Gulmarg",
+    "description": "Gulmarg is a scenic hill station located in the Indian union territory of Jammu and Kashmir. It is famous for its snow-covered slopes, skiing opportunities, lush meadows, and enchanting landscapes.",
+    "address": "Gulmarg, Jammu and Kashmir",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Gulmarg_Meadow_of_Flowers.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "27",
+  "attributes": {
+    "name": "Mahabaleshwar",
+    "description": "Mahabaleshwar is a scenic hill station situated in the Western Ghats of Maharashtra, India. It is known for its pleasant weather, breathtaking viewpoints, strawberry farms, and serene landscapes.",
+    "address": "Mahabaleshwar, Maharashtra",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabaleshwar_Bazaar.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "28",
+  "attributes": {
+    "name": "Coorg",
+    "description": "Coorg, also known as Kodagu, is a mesmerizing hill station located in the state of Karnataka, India. It is famous for its coffee plantations, misty hills, waterfalls, and rich biodiversity.",
+    "address": "Coorg, Karnataka",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Abbey_falls.jpg"
+  }
+},{
+  "type": "tourist-spot",
+  "id": "29",
+  "attributes": {
+    "name": "Mount Abu",
+    "description": "Mount Abu is a beautiful hill station situated in the Aravalli Range of Rajasthan, India. It is known for its cool climate, stunning sunsets, Nakki Lake, and the famous Dilwara Temples.",
+    "address": "Mount Abu, Rajasthan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dilwara_Temples_Mount_Abu.jpg"
+  }
+}
   ]
 }
