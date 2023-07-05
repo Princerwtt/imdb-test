@@ -262,24 +262,6 @@
     "address": "Mahabaleshwar, Maharashtra",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabaleshwar_Bazaar.jpg"
   }
-},{
-"type": "tourist-spot",
-"id": "28",
-"attributes": {
-"name": "Agra Fort",
-"description": "Agra Fort, also known as the Red Fort of Agra, is a historical fort located in Agra, Uttar Pradesh, India. It was the main residence of the emperors of the Mughal Dynasty until 1638 when the capital was shifted from Agra to Delhi. The fort is a UNESCO World Heritage site and is known for its beautiful architecture and rich history.",
-"address": "Rakabganj, Agra, Uttar Pradesh 282003",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Agra_Fort_August_2014.jpg/800px-Agra_Fort_August_2014.jpg"
-}
-},{
-  "type": "tourist-spot",
-  "id": "29",
-  "attributes": {
-    "name": "Mount Abu",
-    "description": "Mount Abu is a beautiful hill station situated in the Aravalli Range of Rajasthan, India. It is known for its cool climate, stunning sunsets, Nakki Lake, and the famous Dilwara Temples.",
-    "address": "Mount Abu, Rajasthan",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dilwara_Temples_Mount_Abu.jpg"
-  }
 }
   ]
 }
