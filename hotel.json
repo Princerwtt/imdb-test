@@ -6,7 +6,8 @@
           "location": "Mumbai, Maharashtra",
           "rating": 4.9,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Restaurants"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
         },
         {
@@ -15,7 +16,8 @@
           "location": "Jodhpur, Rajasthan",
           "rating": 4.8,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Fine dining"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/umaid-bhawan-palace-jodhpur/"
         },
         {
@@ -24,7 +26,8 @@
           "location": "Agra, Uttar Pradesh",
           "rating": 4.7,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Rooftop restaurant"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/"
         },
         {
@@ -33,7 +36,8 @@
           "location": "New Delhi",
           "rating": 4.9,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Multiple restaurants"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.theleela.com/en_us/hotels-in-delhi/the-leela-palace-hotel-new-delhi/"
         },
         {
@@ -42,7 +46,8 @@
           "location": "Chennai, Tamil Nadu",
           "rating": 4.6,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Banquet halls"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.itchotels.in/hotels/chennai/itcgrandchola.html"
         },
         {
@@ -51,7 +56,8 @@
           "location": "Hyderabad, Telangana",
           "rating": 4.8,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Tea lounge"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-falaknuma-palace-hyderabad/"
         },
         {
@@ -60,7 +66,8 @@
           "location": "Jaipur, Rajasthan",
           "rating": 4.7,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Courtyard dining"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/"
         },
         {
@@ -70,6 +77,7 @@
           "rating": 4.5,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Lake-view rooms"],
           "priceRange": "$$",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.thelalit.com/the-lalit-srinagar/"
        },
         {
@@ -78,7 +86,8 @@
           "location": "Bengaluru, Karnataka",
           "rating": 4.6,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Outdoor dining", "Lush gardens"],
-          "priceRange": "$$$",
+          "priceRange": "2000",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-west-end-bengaluru/"
         },
         {
@@ -88,6 +97,7 @@
           "rating": 4.4,
           "facilities": ["Swimming pool", "Spa", "Fitness center", "Sea-view rooms"],
           "priceRange": "$$",
+          "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.vivantahotels.com/en-in/vivanta-kochi-malabar/"
         },{
             "id":"11",
@@ -95,7 +105,8 @@
             "location": "Sardar Patel Marg, Diplomatic Enclave, New Delhi",
             "rating": 4.8,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Fine dining"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.tajhotels.com/en-in/taj/taj-palace-new-delhi/"
           },
           {
@@ -104,7 +115,8 @@
             "location": "Dr. Zakir Hussain Marg, New Delhi",
             "rating": 4.7,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Rooftop restaurant"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.oberoihotels.com/hotels-in-delhi-ncr/oberoi-new-delhi/"
           },
           {
@@ -113,7 +125,8 @@
             "location": "Sardar Patel Marg, Diplomatic Enclave, New Delhi",
             "rating": 4.6,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Banquet halls"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.itchotels.in/hotels/new-delhi/itcmaurya.html"
           },
           {
@@ -122,7 +135,8 @@
             "location": "Asset Area 4, Hospitality District, Delhi Aerocity, New Delhi",
             "rating": 4.5,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Multiple dining options"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.marriott.com/hotels/travel/delap-jw-marriott-hotel-new-delhi-aerocity/"
           },{
             "id":"15",
@@ -130,7 +144,8 @@
             "location": "Nadesar Palace Grounds, Varanasi",
             "rating": 4.9,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Multiple restaurants"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.tajhotels.com/en-in/taj/taj-ganges-varanasi/"
           },
           {
@@ -139,7 +154,8 @@
             "location": "The Mall Road, Cantonment, Varanasi",
             "rating": 4.8,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Rooftop restaurant"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.radissonhotels.com/en-us/hotels/radisson-varanasi"
           },
           {
@@ -148,7 +164,8 @@
             "location": "The Mall Road, Cantonment, Varanasi",
             "rating": 4.7,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Banquet halls"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.wyndhamhotels.com/ramada/varanasi-india/ramada-plaza-jhv-varanasi/overview"
           }, {
             "id":"18",
@@ -156,7 +173,8 @@
             "location": "Chharabra, Shimla",
             "rating": 4.8,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Mountain views"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.oberoihotels.com/hotels-in-shimla-wfh/"
           },
           {
@@ -165,7 +183,8 @@
             "location": "Goodwood Estate, Lower Bharari Road, Shimla",
             "rating": 4.7,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Rooftop restaurant"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.radissonhotels.com/en-us/hotels/radisson-shimla"
           },
           {
@@ -174,7 +193,8 @@
             "location": "The Mall, Shimla",
             "rating": 4.6,
             "facilities": ["Spa", "Restaurant", "Terrace"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.oberoihotels.com/hotels-in-shimla-clarkes/"
           },
           {
@@ -184,6 +204,7 @@
             "rating": 4.5,
             "facilities": ["Restaurant", "Bar", "Conference facilities"],
             "priceRange": "$$",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.hotelmarinashimla.com/"
           },{
             "id":"22",
@@ -191,7 +212,8 @@
             "location": "Narendra Nagar, Uttarakhand",
             "rating": 4.9,
             "facilities": ["Spa", "Yoga and Meditation center", "Wellness programs", "Gourmet dining"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.anandaspa.com/"
           },
           {
@@ -200,7 +222,8 @@
             "location": "Village & PO Dhela, Ramnagar, Uttarakhand",
             "rating": 4.8,
             "facilities": ["Luxury cottages", "Swimming pool", "Jungle safaris", "Bird watching"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.jimsjungleretreat.com/"
           },
           {
@@ -209,7 +232,8 @@
             "location": "Kasar Devi, Almora, Uttarakhand",
             "rating": 4.7,
             "facilities": ["Mountain views", "Restaurant", "Library", "Outdoor seating"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.thekumaon.com/"
           },
           {
@@ -218,7 +242,8 @@
             "location": "Ayarpatta Slopes, Mallital, Nainital, Uttarakhand",
             "rating": 4.6,
             "facilities": ["Heritage property", "Gardens", "Terrace", "Multi-cuisine restaurant"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.leisurehotels.co.in/naini-retreat-nainital"
           },
           {
@@ -228,6 +253,7 @@
             "rating": 4.5,
             "facilities": ["River view rooms", "Swimming pool", "Jungle safaris", "Outdoor activities"],
             "priceRange": "$$",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.leisurehotels.co.in/the-river-view-retreat-corbett"
           },{
             "id":"27",
@@ -235,7 +261,8 @@
             "location": "Gupkar Road, Srinagar, Jammu and Kashmir",
             "rating": 4.9,
             "facilities": ["Swimming pool", "Spa", "Fitness center", "Lake-view rooms"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.thelalit.com/the-lalit-srinagar/"
           },
           {
@@ -244,7 +271,8 @@
             "location": "Gulmarg, Jammu and Kashmir",
             "rating": 4.8,
             "facilities": ["Luxury accommodations", "Spa", "Fitness center", "Multiple dining options"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.khyberhotels.com/"
           },
           {
@@ -253,7 +281,8 @@
             "location": "Kralsangri, Srinagar, Jammu and Kashmir",
             "rating": 4.7,
             "facilities": ["Lake view rooms", "Spa", "Fitness center", "Outdoor dining"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.vivantahotels.com/en-in/vivanta-dal-view-srinagar/"
           },
           {
@@ -263,6 +292,7 @@
             "rating": 4.6,
             "facilities": ["Restaurant", "Bar", "Fitness center", "Conference facilities"],
             "priceRange": "$$",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.lemontreehotels.com/lemon-tree-hotel/jammu/hotel-jammu.aspx"
           },
           {
@@ -272,6 +302,7 @@
             "rating": 4.5,
             "facilities": ["Lake view rooms", "Restaurant", "Terrace", "24-hour front desk"],
             "priceRange": "$$",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.hotelasiagroup.com/"
           },{
             "id":"32",
@@ -279,7 +310,8 @@
             "location": "The Mall, Darjeeling, West Bengal",
             "rating": 4.9,
             "facilities": ["Spa", "Fitness center", "Multi-cuisine restaurant", "Terrace"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.mayfairhotels.com/darjeeling/"
           },
           {
@@ -288,7 +320,8 @@
             "location": "Near Bagora, Darjeeling, West Bengal",
             "rating": 4.8,
             "facilities": ["Tea tours", "Private bungalows", "Riverside picnics", "Outdoor activities"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.glenburnteaestate.com/"
           },
           {
@@ -297,7 +330,8 @@
             "location": "Observatory Hill, Darjeeling, West Bengal",
             "rating": 4.7,
             "facilities": ["Colonial-style rooms", "Library", "Restaurant", "Garden"],
-            "priceRange": "$$$",
+            "priceRange": "2000",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.windamerehotel.com/"
           },
           {
@@ -307,6 +341,7 @@
             "rating": 4.6,
             "facilities": ["Mountain views", "Restaurant", "Bar", "Terrace"],
             "priceRange": "$$",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.viceroyhoteldrj.com/"
           },
           {
@@ -316,6 +351,7 @@
             "rating": 4.5,
             "facilities": ["Mountain views", "Restaurant", "Bar", "Garden"],
             "priceRange": "$$",
+            "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.cedarinn.com/"
           }
       ]
