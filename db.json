@@ -329,16 +329,7 @@
         "address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092",
         "image": "https://media.easemytrip.com/media/Blog/India/637116640324801740/637116640324801740-Akshardham%20Temple%20Delhi.jpg"
       }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "35",
-      "attributes": {
-        "name": "Jaisalmer",
-        "description": "Jaisalmer is a captivating city located in the heart of the Thar Desert in Rajasthan, India. It is known for its magnificent sandstone architecture, golden sand dunes, and camel safaris.",
-        "address": "Jaisalmer, Rajasthan",
-        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2017/08/Jaisalmer-Rajasthan.jpg"
-      }
     }
+    
   ]
 }
