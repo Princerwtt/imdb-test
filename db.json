@@ -7,7 +7,7 @@
         "name": "Taj Mahal",
         "description": "The Taj Mahal is an iconic white marble mausoleum in Agra. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
         "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
-        "image": "https://images.pexels.com/photos/3224533/pexels-photo-3224533.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "image": "https://lh3.googleusercontent.com/ci/AJFM8rwqPmT0tBf_V0DqHYN0QFacO8iNUd1rtHMfxNsPn1av1LSUShjNH9vuUMD9jjXAcAZnMW3GuEA=s1200"
       }
     },
     {
@@ -269,6 +269,63 @@
     "address": "Mount Abu, Rajasthan",
     "image": "https://www.trawell.in/admin/images/upload/169351384Mount_Abu_Sunset_Point_Main.jpg"
   }
+},{
+"type": "tourist-spot",
+"id": "30",
+"attributes": {
+"name": "Qutub Minar",
+"description": "Qutub Minar is a towering minaret and UNESCO World Heritage Site in Delhi. It is a masterpiece of Indo-Islamic architecture and a popular tourist attraction.",
+"address": "Mehrauli, New Delhi, Delhi 110030",
+"image": "https://media.istockphoto.com/id/165204592/photo/qutub-minar-delhi-india.jpg?s=612x612&w=0&k=20&c=YvFLPmQmlgCyX7RGZA1VpKctdC6QsChINzLSMDPNI9k="
+}
+}
+
+Red Fort:
+{
+"type": "tourist-spot",
+"id": "31",
+"attributes": {
+"name": "Red Fort",
+"description": "Red Fort, also known as Lal Qila, is an iconic fortress located in Old Delhi. It served as the main residence of the Mughal Emperors and showcases impressive architectural features.",
+"address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006",
+"image": "https://media-cdn.tripadvisor.com/media/photo-s/21/59/70/42/caption.jpg"
+}
+}
+
+India Gate:
+{
+"type": "tourist-spot",
+"id": "32",
+"attributes": {
+"name": "India Gate",
+"description": "India Gate is a war memorial and prominent landmark in Delhi. It commemorates the soldiers of the Indian Army who lost their lives in various conflicts and is surrounded by beautifully maintained lawns.",
+"address": "Rajpath, India Gate, New Delhi, Delhi 110001",
+"image": "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/7b/c2/picture-clicked-at-the.jpg"
+}
+}
+
+Humayun's Tomb:
+{
+"type": "tourist-spot",
+"id": "33",
+"attributes": {
+"name": "Humayun's Tomb",
+"description": "Humayun's Tomb is a magnificent mausoleum and UNESCO World Heritage Site in Delhi. It is a fine example of Mughal architecture and inspired the construction of the Taj Mahal.",
+"address": "Mathura Road, Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi, Delhi 110013",
+"image": "https://cdn.britannica.com/54/156454-050-4E72CEE0/Humayuns-Tomb-Hamidah-Banu-Begam-Delhi-India-1569.jpg"
+}
+}
+
+Akshardham Temple:
+{
+"type": "tourist-spot",
+"id": "34",
+"attributes": {
+"name": "Akshardham Temple",
+"description": "Akshardham Temple is a magnificent Hindu temple complex in Delhi. It showcases stunning architecture, intricate carvings, and offers various exhibitions and cultural shows.",
+"address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092",
+"image": "https://media.easemytrip.com/media/Blog/India/637116640324801740/637116640324801740NJDbTX.jpg"
+}
 }
   ]
 }
