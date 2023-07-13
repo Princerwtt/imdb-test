@@ -18,7 +18,7 @@
             "price": "12000",
             "description": "Explore the iconic Golden Triangle of India, encompassing the historical cities of Delhi, Agra, and Jaipur. Witness the awe-inspiring Taj Mahal, delve into the magnificent Mughal architecture of the Red Fort, and experience the royal splendor of Amber Fort and Hawa Mahal.",
             "image": [
-                "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/77/c9.jpg,https://www.travelogyindia.com/images/delhi/red-fort1.jpg,https://dynamic.tourtravelworld.com/package-images/photo-big/dir_15/434923/161233.jpg,https://www.jaipurstuff.com/wp-content/uploads/2022/06/Sheesh-Mahal-Jaipur.jpg"
+                "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/77/c9.jpg","https://www.travelogyindia.com/images/delhi/red-fort1.jpg,https://dynamic.tourtravelworld.com/package-images/photo-big/dir_15/434923/161233.jpg","https://www.jaipurstuff.com/wp-content/uploads/2022/06/Sheesh-Mahal-Jaipur.jpg"
             ]
         },
         {
@@ -38,7 +38,7 @@
             "price": "9000",
             "description": "Embark on a serene journey through the mesmerizing backwaters of Kerala. Cruise in a traditional houseboat, witness captivating Kathakali performances, and explore the enchanting spice gardens of Kochi, Alleppey, and Kumarakom.",
             "image": [
-                "https://wemusttravel.in/wp-content/uploads/2019/04/delux-1-bed-heritage-houseboats-alleppey-kerala-india1.jpg,https://www.authenticindiatours.com/app/uploads/2022/03/Kathakali-Performance-Cochin-min.jpg,https://www.visittnt.com/images/kerala/thekkday-plantation.jpg"
+                "https://wemusttravel.in/wp-content/uploads/2019/04/delux-1-bed-heritage-houseboats-alleppey-kerala-india1.jpg","https://www.authenticindiatours.com/app/uploads/2022/03/Kathakali-Performance-Cochin-min.jpg","https://www.visittnt.com/images/kerala/thekkday-plantation.jpg"
             ]
         },
         {
@@ -59,7 +59,7 @@
             "price": "15000",
             "description": "Embark on an unforgettable adventure through the mystical deserts of Rajasthan. Experience camel safaris, explore the magnificent Thar Desert, and marvel at the grandeur of Mehrangarh Fort and City Palace in Jaipur, Jaisalmer, and Jodhpur.",
             "image": [
-                "https://www.shikhar.com/images/gallery/tours/101/1.jpg,https://i1.wp.com/ercotravels.com/blog/wp-content/uploads/2016/02/16007734871_bc25c0843c_k.jpg,https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1579398537431-P1Q442AEOTSZJ7RL9WHW/samode+palace?format=500w"
+                "https://www.shikhar.com/images/gallery/tours/101/1.jpg,https://i1.wp.com/ercotravels.com/blog/wp-content/uploads/2016/02/16007734871_bc25c0843c_k.jpg","https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1579398537431-P1Q442AEOTSZJ7RL9WHW/samode+palace?format=500w"
             ]
         },
         {
@@ -77,7 +77,7 @@
             "price": "6000",
             "description": "Embark on a spiritual journey to the sacred city of Varanasi. Witness mesmerizing Ganga Aarti ceremonies, take a tranquil boat ride on the holy River Ganges, and visit the ancient site of Sarnath, where Buddha delivered his first sermon.",
             "image": [
-                "https://www.visittnt.com/blog/wp-content/uploads/2017/04/varanasi-aarti.jpg,https://www.visittnt.com/images/varanasi/pkg/varanasi-morning-boat-ride.jpg,https://media-cdn.tripadvisor.com/media/photo-s/1a/54/e2/4a/caption.jpg"
+                "https://www.visittnt.com/blog/wp-content/uploads/2017/04/varanasi-aarti.jpg","https://www.visittnt.com/images/varanasi/pkg/varanasi-morning-boat-ride.jpg","https://media-cdn.tripadvisor.com/media/photo-s/1a/54/e2/4a/caption.jpg"
             ]
         },
         {
@@ -96,7 +96,7 @@
             "price": "8000",
             "description": "Experience the vibrant beach paradise of Goa. Soak up the sun on stunning beaches, indulge in thrilling water sports, immerse yourself in the lively nightlife, and explore the historic churches of Old Goa.",
             "image": [
-                "https://www.seawatersports.com/img/newimage/places/arambol-beach.jpg,https://ihplb.b-cdn.net/wp-content/uploads/2018/03/bom-of-basilica.jpg,https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/07/cover-image-water-sports-in-phuket-123.jpg,https://www.easemytrip.com/travel/img/nightlife-places-goa.jpg"
+                "https://www.seawatersports.com/img/newimage/places/arambol-beach.jpg","https://ihplb.b-cdn.net/wp-content/uploads/2018/03/bom-of-basilica.jpg","https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/07/cover-image-water-sports-in-phuket-123.jpg","https://www.easemytrip.com/travel/img/nightlife-places-goa.jpg"
             ]
         },
         {
@@ -116,7 +116,7 @@
             "price": "16000",
             "description": "Embark on an adrenaline-filled adventure in the picturesque landscapes of Ladakh. Trek through high-altitude terrains, visit ancient monasteries, and experience the unique Bactrian camel ride in Leh, Nubra Valley, and Pangong Lake.",
             "image": [
-                "https://www.lehladakhtaxis.com/img/practical-info/667x445_stok-kangri-trek.jpg,https://media-cdn.tripadvisor.com/media/photo-s/10/f7/b0/48/clean-beautiful-samstanling.jpg,https://media.istockphoto.com/id/1218830644/photo/beautiful-lake.jpg?s=612x612&w=0&k=20&c=r5or5KmtrZE5P93cDPG2FzxWQxhZA0qeTInoXJ7qXxA="
+                "https://www.lehladakhtaxis.com/img/practical-info/667x445_stok-kangri-trek.jpg","https://media-cdn.tripadvisor.com/media/photo-s/10/f7/b0/48/clean-beautiful-samstanling.jpg","https://media.istockphoto.com/id/1218830644/photo/beautiful-lake.jpg?s=612x612&w=0&k=20&c=r5or5KmtrZE5P93cDPG2FzxWQxhZA0qeTInoXJ7qXxA="
             ]
         },
         {
@@ -134,7 +134,7 @@
             "price": "15000",
             "description": "Embark on a delightful journey to the tea capital of India, Darjeeling. Explore lush tea gardens, experience a charming ride on the UNESCO World Heritage Darjeeling Himalayan Railway (Toy Train), and witness the mesmerizing sunrise from Tiger Hill.",
             "image": [
-                "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2015/10/Darjeeling-Toy-Train-1.jpg,https://www.holidify.com/images/cmsuploads/compressed/Darjeeling_sunrise_20190208190900.jpg,https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1653117021.jpg"
+                "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2015/10/Darjeeling-Toy-Train-1.jpg","https://www.holidify.com/images/cmsuploads/compressed/Darjeeling_sunrise_20190208190900.jpg","https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1653117021.jpg"
             ]
         },
         {
@@ -152,7 +152,7 @@
             "price": "4000",
             "description": "Discover the rich heritage of Mysore, known for its grand palaces and cultural landmarks. Visit the magnificent Mysore Palace, ascend Chamundi Hill for breathtaking views, and witness the enchanting Brindavan Gardens.",
             "image": [
-                "https://www.holidaymonk.com/wp-content/uploads/2022/05/Mysore-Palace-1024x684.webp,https://www.explorebees.com/uploads/Chamundeshwari%20Temple%20in%20Chamundi%20Hill%20(3).jpg,https://static.toiimg.com/photo/imgsize-102810,msid-95968054/95968054.jpg"
+                "https://www.holidaymonk.com/wp-content/uploads/2022/05/Mysore-Palace-1024x684.webp","https://www.explorebees.com/uploads/Chamundeshwari%20Temple%20in%20Chamundi%20Hill%20(3).jpg","https://static.toiimg.com/photo/imgsize-102810,msid-95968054/95968054.jpg"
             ]
         },
         {
@@ -173,7 +173,7 @@
             "price": "13000",
             "description": "Experience a tropical paradise in the Andaman Islands. Dive into the crystal-clear waters for snorkeling, relax on the pristine Radhanagar Beach, visit the historic Cellular Jail, and explore fascinating limestone caves.",
             "image": [
-                "https://www.greenisland.in/gallery/9f988e59-0a6e-404f-8529-1c20fc5224cc.jpg,https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1685621220/bbj/f4cqwljolfosa8eapzme.avif,https://www.gosahin.com/go/p/e/1531062713_Limestone-Caves1.jpg"
+                "https://www.greenisland.in/gallery/9f988e59-0a6e-404f-8529-1c20fc5224cc.jpg","https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1685621220/bbj/f4cqwljolfosa8eapzme.avif","https://www.gosahin.com/go/p/e/1531062713_Limestone-Caves1.jpg"
             ]
         },
         {
@@ -192,7 +192,7 @@
             "price": "7000",
             "description": "Uncover the ancient wonders of Hampi, a UNESCO World Heritage site. Marvel at the architectural marvels of Vijaya Vittala Temple, explore the vibrant Hampi Bazaar, visit the majestic Elephant Stables, and discover the sacred Virupaksha Temple.",
             "image": [
-                "https://hampi.tourismindia.co.in/images/places-to-visit/headers/vijaya-vittala-temple-hampi-tourism-entry-fee-timings-holidays-reviews-header.jpg,https://media.tripinvites.com/places/hampi/elephant-stables/hampi-elephant-stables-featured.jpg,https://hampi.in/wp-content/uploads/2010/09/fp-hampi-bazaar1.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Virupaksha_temple_at_Pattadakal.jpg/1200px-Virupaksha_temple_at_Pattadakal.jpg"
+                "https://hampi.tourismindia.co.in/images/places-to-visit/headers/vijaya-vittala-temple-hampi-tourism-entry-fee-timings-holidays-reviews-header.jpg","https://media.tripinvites.com/places/hampi/elephant-stables/hampi-elephant-stables-featured.jpg","https://hampi.in/wp-content/uploads/2010/09/fp-hampi-bazaar1.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Virupaksha_temple_at_Pattadakal.jpg/1200px-Virupaksha_temple_at_Pattadakal.jpg"
             ]
         },
         {
@@ -212,7 +212,7 @@
             "price": "14000",
             "description": "Embark on a breathtaking journey through the picturesque Kashmir Valley. Experience the beauty of Dal Lake with a Shikara ride, enjoy a thrilling Gondola ride in Gulmarg, and indulge in river rafting along the Lidder River in Pahalgam.",
             "image": [
-                "https://www.tourmyindia.com/states/jammu-kashmir/image/shikara-ride-jk3.jpg,https://cliffhangersindia.com/wp-content/uploads/2022/10/gulmarg-gondola-kashmir.jpg"
+                "https://www.tourmyindia.com/states/jammu-kashmir/image/shikara-ride-jk3.jpg","https://cliffhangersindia.com/wp-content/uploads/2022/10/gulmarg-gondola-kashmir.jpg"
             ]
         },
         {
@@ -231,7 +231,7 @@
             "price": "6000",
             "description": "Explore the vibrant city of Mumbai, the commercial and entertainment capital of India. Visit the iconic Gateway of India, discover the ancient Elephanta Caves, take a leisurely walk along Marine Drive, and enjoy a thrilling Bollywood tour.",
             "image": [
-                "https://cdn.getyourguide.com/img/tour/5ed2552e0895a.jpeg/97.jpg,https://indiator.com/tourist-places/wp-content/uploads/2018/02/elephanta-caves.jpg,https://www.tripsavvy.com/thmb/6RMDP2pyso0vDepNL74Z0yKWlEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-580758119-a4b344ced3f14d87941823a5b65e0f8c.jpg,https://5.imimg.com/data5/JO/ZX/GY/SELLER-10637485/bollywood-tour.png"
+                "https://cdn.getyourguide.com/img/tour/5ed2552e0895a.jpeg/97.jpg","https://indiator.com/tourist-places/wp-content/uploads/2018/02/elephanta-caves.jpg","https://www.tripsavvy.com/thmb/6RMDP2pyso0vDepNL74Z0yKWlEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-580758119-a4b344ced3f14d87941823a5b65e0f8c.jpg","https://5.imimg.com/data5/JO/ZX/GY/SELLER-10637485/bollywood-tour.png"
             ]
         },
         {
@@ -252,7 +252,7 @@
             "price": "10000",
             "description": "Immerse yourself in the pristine beauty of Meghalaya, known as the 'abode of clouds.' Explore the enchanting living root bridges, visit the captivating Mawsmai Cave, marvel at the scenic Umiam Lake, and experience the crystal-clear waters of the Dawki River.",
             "image": [
-                "https://unstumbled.com/uploads/2022/08/Meghalaya%20banner.jpg,https://pbs.twimg.com/media/EuVWegPUcAI04aW.jpg,https://www.makemytraveling.com/images/1/dawki-27fbd.webp,https://media-cdn.tripadvisor.com/media/photo-s/19/6e/8c/69/evening-view-of-umiam.jpg"
+                "https://unstumbled.com/uploads/2022/08/Meghalaya%20banner.jpg","https://pbs.twimg.com/media/EuVWegPUcAI04aW.jpg,https://www.makemytraveling.com/images/1/dawki-27fbd.webp","https://media-cdn.tripadvisor.com/media/photo-s/19/6e/8c/69/evening-view-of-umiam.jpg"
             ]
         },
         {
@@ -272,7 +272,7 @@
             "price": "12000",
             "description": "Immerse yourself in the rich tribal heritage of Odisha. Explore the magnificent Lingaraja Temple in Bhubaneswar, marvel at the Sun Temple in Konark, and delve into the vibrant tribal culture by visiting tribal villages in the scenic region of Koraput.",
             "image": [
-                "https://1.bp.blogspot.com/-T21jLv_CeIk/XzuE_OEP_GI/AAAAAAAA8Ls/2TIaKhW-r7c4fqmK85ewtBpJavOF8mKzQCK4BGAYYCw/s1600/Lingaraj_Temple_Bhubaneswar.jpg,https://www.trawell.in/admin/images/upload/403298207Konark_Sun_Temple.jpg"
+                "https://1.bp.blogspot.com/-T21jLv_CeIk/XzuE_OEP_GI/AAAAAAAA8Ls/2TIaKhW-r7c4fqmK85ewtBpJavOF8mKzQCK4BGAYYCw/s1600/Lingaraj_Temple_Bhubaneswar.jpg","https://www.trawell.in/admin/images/upload/403298207Konark_Sun_Temple.jpg"
             ]
         },
         {
@@ -291,7 +291,7 @@
             "price": "5000",
             "description": "Discover the aromatic world of coffee in Coorg. Explore lush coffee plantations, witness the mesmerizing Abbey Falls, visit the birthplace of River Cauvery at Talacauvery, and experience the thrilling Dubare Elephant Camp.",
             "image": [
-                "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/9e/ea/55.jpg,https://i1.wp.com/www.coorgtourisminfo.com/wp-content/uploads/2016/04/Abbey-Falls-10.jpg?zoom=2.625&w=476&h=357&crop,https://blog-content.ixigo.com/wp-content/uploads/2013/08/dubare.jpg,https://www.karnataka.com/wp-content/uploads/2009/11/talacauvery-top-view.jpg"
+                "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/9e/ea/55.jpg","https://i1.wp.com/www.coorgtourisminfo.com/wp-content/uploads/2016/04/Abbey-Falls-10.jpg?zoom=2.625&w=476&h=357&crop,https://blog-content.ixigo.com/wp-content/uploads/2013/08/dubare.jpg","https://www.karnataka.com/wp-content/uploads/2009/11/talacauvery-top-view.jpg"
             ]
         },
         {
@@ -309,7 +309,7 @@
             "price": "4000",
             "description": "Immerse yourself in the rich heritage of Amritsar, home to the iconic Golden Temple. Witness the ceremonial flag-lowering at the Wagah Border, pay homage at the poignant Jallianwala Bagh memorial, and explore the vibrant streets of the city.",
             "image": [
-                "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/b9/e2.jpg,https://media.tacdn.com/media/attractions-splice-spp-674x446/07/b0/6e/43.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1200px-Jallianwala_Bagh%2C_Amritsar_01.jpg"
+                "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/b9/e2.jpg","https://media.tacdn.com/media/attractions-splice-spp-674x446/07/b0/6e/43.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1200px-Jallianwala_Bagh%2C_Amritsar_01.jpg"
             ]
         },
         {
@@ -329,7 +329,7 @@
             "price": "13000",
             "description": "Embark on an exciting wildlife expedition in Assam. Experience thrilling jeep safaris in Kaziranga National Park, enjoy a serene river cruise on the Brahmaputra, and witness the majestic wildlife through elephant safaris in Manas National Park.",
             "image": [
-                "https://assets.telegraphindia.com/telegraph/35392558-08a5-4608-a9a9-0b13ed27c8fc.jpg,https://images.thrillophilia.com/image/upload/s--zVrGzQrk--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/057/063/original/1586428684_https___s3-eu-west-1.amazonaws.com_htsi-ez-prod_ez_images_4_9_0_6_1446094-1-eng-GB_01-Ship-Exterior-2.jpg.jpg?1586428684,https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2020/11/EltRRWtVMAAP2LG.jpg?fit=1200%2C800&ssl=1"
+                "https://assets.telegraphindia.com/telegraph/35392558-08a5-4608-a9a9-0b13ed27c8fc.jpg","https://images.thrillophilia.com/image/upload/s--zVrGzQrk--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/057/063/original/1586428684_https___s3-eu-west-1.amazonaws.com_htsi-ez-prod_ez_images_4_9_0_6_1446094-1-eng-GB_01-Ship-Exterior-2.jpg.jpg?1586428684","https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2020/11/EltRRWtVMAAP2LG.jpg?fit=1200%2C800&ssl=1"
             ]
         },
         {
@@ -348,7 +348,7 @@
             "price": "7000",
             "description": "Experience the unique blend of Indian and French cultures in the charming town of Pondicherry. Visit the spiritual community of Auroville, relax on the serene Promenade Beach, explore the French Quarter, and delve into the teachings of Sri Aurobindo at his ashram.",
             "image": [
-                "https://data.agatetravel.com/images/photogallery/2022/aurobindo-ashram-pondicherry.jpg,https://hblimg.mmtcdn.com/content/hubble/img/pondicherry/mmt/activities/t_trp/m_activities-pondicherry-promenade-beach_l_400_640.jpg?im=Resize=(824,550.13),https://static.toiimg.com/img/99391984/Master.jpg,https://res.cloudinary.com/simpleview/image/upload/v1519070755/clients/neworleans/NOTMC_15747_d290f293-28f5-45c4-a57e-e9242b5aa68c.jpg"
+                "https://data.agatetravel.com/images/photogallery/2022/aurobindo-ashram-pondicherry.jpg","https://hblimg.mmtcdn.com/content/hubble/img/pondicherry/mmt/activities/t_trp/m_activities-pondicherry-promenade-beach_l_400_640.jpg?im=Resize=(824,550.13)","https://static.toiimg.com/img/99391984/Master.jpg,https://res.cloudinary.com/simpleview/image/upload/v1519070755/clients/neworleans/NOTMC_15747_d290f293-28f5-45c4-a57e-e9242b5aa68c.jpg"
             ]
         }
     ]
