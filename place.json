@@ -1,0 +1,315 @@
+{
+    "delhi": [
+      {
+        "id":"1",
+        "name": "Red Fort",
+        "description": "A UNESCO World Heritage Site, Red Fort is an iconic Mughal-era fort known for its stunning architecture and historical significance. It served as the main residence of Mughal emperors for nearly 200 years.",
+        "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, Delhi, 110006",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Delhi_Red_fort_20190312151147.jpg"
+      },
+      {
+        "id":"2",
+        "name": "Qutub Minar",
+        "description": "Qutub Minar, a UNESCO World Heritage Site, is the tallest brick minaret in the world. It showcases beautiful Islamic architecture and stands amidst several ancient ruins, making it a fascinating historical site.",
+        "address": "Mehrauli, Delhi, 110030",
+        "image": "https://i0.wp.com/www.mappingmegan.com/wp-content/uploads/2018/12/Qutub-Minar-India.jpg?resize=1200%2C789&ssl=1"
+      },
+      {
+        "id":"3",
+        "name": "India Gate",
+        "description": "India Gate is a prominent war memorial dedicated to the Indian soldiers who lost their lives during World War I. The majestic arch and well-maintained lawns make it a popular spot for picnics and evening strolls.",
+        "address": "Rajpath, India Gate, New Delhi, Delhi, 110001",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/indiagate.jpg"
+      },
+      {
+        "id":"4",
+        "name": "Lotus Temple",
+        "description": "The Lotus Temple, with its awe-inspiring lotus-shaped design, is a Bahá'í House of Worship. This serene place offers a tranquil atmosphere for meditation and prayer, open to people of all faiths.",
+        "address": "Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi, 110019",
+        "image": "https://cdn.britannica.com/67/156667-050-62285333/Lotus-Temple-New-Delhi-India.jpg"
+      },
+      {
+        "id":"5",
+        "name": "Humayun's Tomb",
+        "description": "Humayun's Tomb is a magnificent Mughal mausoleum, considered a precursor to the Taj Mahal. Its stunning architecture and well-maintained gardens make it a must-visit for history and architecture enthusiasts.",
+        "address": "Mathura Road, Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi, Delhi, 110013",
+        "image": "https://cdn.britannica.com/54/156454-050-4E72CEE0/Humayuns-Tomb-Hamidah-Banu-Begam-Delhi-India-1569.jpg"
+      }
+    ],
+    "jammu & kashmir":[
+        {
+            "id":"6",
+          "name": "Dal Lake",
+          "description": "Dal Lake is a picturesque water body surrounded by stunning landscapes and floating gardens. Visitors can enjoy a Shikara ride, houseboat stay, and explore the Mughal gardens on its banks.",
+          "address": "Dal Lake, Srinagar, Jammu and Kashmir, 190001",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/1200px-Dal_Lake_Hazratbal_Srinagar.jpg"
+        },
+        {
+            "id":"7",
+          "name": "Gulmarg",
+          "description": "Gulmarg is a breathtaking hill station known for its scenic beauty and adventure sports. It offers skiing in winter, and in summer, visitors can enjoy cable car rides and trekking.",
+          "address": "Gulmarg, Baramulla, Jammu and Kashmir, 193403",
+          "image": "https://www.livelaw.in/h-upload/2021/02/18/750x450_389326-gulmarg-jk-hc.jpg"
+        },
+        {
+            "id":"8",
+          "name": "Vaishno Devi Temple",
+          "description": "Vaishno Devi Temple, nestled amidst the Trikuta Mountains, is a revered Hindu pilgrimage site. Devotees undertake a trek to seek blessings of the mother goddess Vaishno Devi.",
+          "address": "Katra, Reasi, Jammu and Kashmir, 182301",
+          "image": "https://www.tourmyindia.com/states/jammu-kashmir/image/best-time-vaishno-devi.jpg"
+        },
+        {
+            "id":"9",
+          "name": "Pangong Lake",
+          "description": "Pangong Lake, a high-altitude lake, mesmerizes with its ever-changing hues. It stretches between India and Tibet (China), offering a stunning landscape that attracts travelers and photographers alike.",
+          "address": "Pangong Lake, Leh, Ladakh, Jammu and Kashmir, 194101",
+          "image": "https://static.toiimg.com/photo/92360678.cms"
+        },
+        {
+            "id":"10",
+          "name": "Betaab Valley",
+          "description": "Betaab Valley is a scenic paradise named after the Bollywood movie 'Betaab' shot here. It enchants visitors with lush greenery, gushing streams, and a tranquil ambiance, perfect for nature lovers.",
+          "address": "Betaab Valley Road, Pahalgam, Jammu and Kashmir, 192126",
+          "image": "https://www.tourmyindia.com/socialimg/betaab-valley-pahalgam.jpg"
+        }
+      ],"shimla":[
+        {
+            "id":"11",
+          "name": "The Ridge, Shimla",
+          "description": "The Ridge is Shimla's central hub, offering stunning views of the surrounding mountains. It's a popular spot for leisurely strolls, shopping, and enjoying various cultural events and festivities.",
+          "address": "The Ridge, Lakkar Bazar, Shimla, Himachal Pradesh, 171001",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3f/89/e2/church-at-ridge.jpg?w=1200&h=1200&s=1"
+        },
+        {
+            "id":"12",
+          "name": "Mall Road, Shimla",
+          "description": "Mall Road is a bustling street lined with shops, restaurants, and cafes. It's perfect for shopping, sampling local cuisine, and taking in the lively atmosphere of Shimla's main commercial area.",
+          "address": "Mall Road, Near Tourism Lift, Shimla, Himachal Pradesh, 171001",
+          "image": "https://res.cloudinary.com/purnesh/image/upload/f_auto/v1506405041/things-to-do-on-the-mall-road-in-shimla.jpg"
+        },
+        {
+            "id":"13",
+          "name": "Kufri",
+          "description": "Kufri, a picturesque hill station near Shimla, offers panoramic views and exciting activities like skiing in winter and horse riding during other seasons. It's a delightful retreat for nature enthusiasts.",
+          "address": "Kufri, Shimla, Himachal Pradesh, 171209",
+          "image": "https://images.thrillophilia.com/image/upload/s--jYR4CMAx--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/142/708/original/1608625451_shutterstock_1276130605.jpg.jpg"
+        },
+        {
+            "id":"14",
+          "name": "Jakhoo Hill",
+          "description": "Jakhoo Hill is famous for the Hanuman Temple, housing a giant Hanuman statue. The hilltop location offers stunning views of Shimla, making it a popular pilgrimage and sightseeing spot.",
+          "address": "Jakhoo Hill, Shimla, Himachal Pradesh, 171001",
+          "image": "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/16008/DU4uqK1vKaUV.jpg"
+        },
+        {
+            "id":"15",
+          "name": "Summer Hill",
+          "description": "Summer Hill, amidst serene surroundings, is where Mahatma Gandhi once stayed. The tranquil ambiance and pleasant weather make it an ideal place for peaceful walks and rejuvenation.",
+          "address": "Summer Hill, Shimla, Himachal Pradesh, 171005",
+          "image": "https://shimlatourism.co.in/images/places-to-visit/headers/summer-hill-shimla-india-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+        }
+      ],"manali":[
+        {
+            "id":"16",
+          "name": "Rohtang Pass",
+          "description": "Rohtang Pass is a high mountain pass offering breathtaking views of snow-capped peaks. It's a gateway to Lahaul-Spiti and a popular spot for snow activities during winter.",
+          "address": "Rohtang Pass, Himachal Pradesh, 175140",
+          "image": "https://jannattravelguru.com/wp-content/uploads/2023/03/Rohtang-pass.jpg"
+        },
+        {
+            "id":"17",
+          "name": "Solang Valley",
+          "description": "Solang Valley is a picturesque destination known for its ski slopes and adventure activities like paragliding and zorbing. It's a paradise for thrill-seekers and nature lovers alike.",
+          "address": "Solang Valley, Manali, Himachal Pradesh, 175131",
+          "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2017/10/Cover13.jpg"
+        },
+        {
+            "id":"18",
+          "name": "Hadimba Devi Temple",
+          "description": "Hadimba Devi Temple is an ancient wooden temple dedicated to the goddess Hadimba. Its unique architecture amidst cedar forests adds to the spiritual and aesthetic experience.",
+          "address": "Hadimba Temple Road, Old Manali, Manali, Himachal Pradesh, 175131",
+          "image": "https://www.sushanttravels.com/uploads/Hadimba_Devi_Temple_2.jpg"
+        },
+        {
+            "id":"19",
+          "name": "Beas River",
+          "description": "The Beas River flows through Manali, offering serene riverbanks for picnics and nature walks. The gushing river and scenic landscapes provide a peaceful escape from city life.",
+          "address": "Beas River, Manali, Himachal Pradesh, 175131",
+          "image": "https://www.seawatersports.com/img/newimage/places/beas-river.jpg"
+        },
+        {
+            "id":"20",
+          "name": "Old Manali",
+          "description": "Old Manali exudes charm with its narrow lanes, traditional houses, and vibrant cafes. It's a haven for backpackers and travelers seeking a laid-back and bohemian atmosphere.",
+          "address": "Old Manali, Manali, Himachal Pradesh, 175131",
+          "image": "https://jannattravelguru.com/wp-content/uploads/2023/03/old-manali.jpg"
+        }
+      ], "chandigarh":[
+        {
+            "id":"21",
+          "name": "Rock Garden",
+          "description": "Rock Garden is a unique sculpture garden built from recycled materials. Created by artist Nek Chand, it features a maze of artwork, waterfalls, and beautiful sculptures, making it a creative wonder.",
+          "address": "Sector 1, Chandigarh, 160001",
+          "image": "https://chandigarhtourism.gov.in/uploads/IMG_37281.jpg"
+        },
+        {
+            "id":"22",
+          "name": "Sukhna Lake",
+          "description": "Sukhna Lake is a serene reservoir where visitors can enjoy boating, walking, and breathtaking sunsets. The picturesque surroundings and migratory birds make it a favorite spot for nature enthusiasts.",
+          "address": "Sector 1, Chandigarh, 160001",
+          "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/06/sukhna-lake-chandigarh-cover.jpg"
+        },
+        {
+            "id":"23",
+          "name": "Rose Garden",
+          "description": "Zakir Hussain Rose Garden is Asia's largest rose garden, showcasing a stunning array of roses and various other flowers. It's a vibrant paradise for flower lovers and photography enthusiasts.",
+          "address": "Jan Marg, 16B, Sector 16, Chandigarh, 160016",
+          "image": "https://i1.sndcdn.com/artworks-zVMoxBE3ktbsI4U1-62MX2Q-t500x500.jpg"
+        },
+        {
+            "id":"24",
+          "name": "Chandigarh Capitol Complex",
+          "description": "Chandigarh Capitol Complex is a UNESCO World Heritage Site designed by Le Corbusier. It houses the High Court, Secretariat, and Legislative Assembly, showcasing modernist architecture and urban planning.",
+          "address": "Sector 1, Chandigarh, 160001",
+          "image": "https://static.dezeen.com/uploads/2016/08/capitol-complex-le-corbusier-chandigarh-india-benjamin-hosking_dezeen_1568_1.jpg"
+        },
+        {
+            "id":"25",
+          "name": "Leisure Valley",
+          "description": "Leisure Valley is a series of connected gardens that offer green spaces, walking paths, and entertainment zones. It's an ideal place for family outings and recreational activities.",
+          "address": "Sector 10, Chandigarh, 160011",
+          "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/06/Chandigarh-og2.jpg"
+        }
+      ],"jaipur":[
+        {
+            "id":"26",
+          "name": "Amber Fort",
+          "description": "Amber Fort is a magnificent UNESCO World Heritage Site, featuring Rajput and Mughal architecture. The grandeur of its palaces, courtyards, and intricate designs make it a must-visit historical attraction.",
+          "address": "Devisinghpura, Amer, Jaipur, Rajasthan, 302001",
+          "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/73/32.jpg"
+        },
+        {
+            "id":"27",
+          "name": "Hawa Mahal",
+          "description": "Hawa Mahal, the 'Palace of Winds,' is an iconic pink sandstone structure with intricate lattice windows. It was built for royal women to observe street festivals discreetly.",
+          "address": "Hawa Mahal Road, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan, 302002",
+          "image": "https://images.moneycontrol.com/static-mcnews/2023/04/pexels-ankur-bagai-6440428.jpg?impolicy=website&width=1600&height=900"
+        },
+        {
+            "id":"28",
+          "name": "City Palace",
+          "description": "City Palace, a historic landmark, showcases a blend of Rajasthani and Mughal architecture. The palace complex houses museums, courtyards, and gardens, offering insights into Jaipur's royal heritage.",
+          "address": "Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan, 302002",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/city-palace-copy-erin-r-and-katie-l-1658261275.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        },
+        {
+            "id":"29",
+          "name": "Jantar Mantar",
+          "description": "Jantar Mantar is an astronomical observatory built by Maharaja Jai Singh II. It houses impressive, ancient instruments for tracking celestial movements and predicting astronomical events.",
+          "address": "Tripolia Bazar, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan, 302002",
+          "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/01/shutterstock_89543659.jpg"
+        },
+        {
+            "id":"30",
+          "name": "Nahargarh Fort",
+          "description": "Nahargarh Fort, perched on a hill, offers panoramic views of Jaipur's landscape. With its historical significance and picturesque surroundings, it's a popular spot for tourists and locals alike.",
+          "address": "Nahar Garh Road, Krishna Nagar, Brahampuri, Jaipur, Rajasthan, 302002",
+          "image": "https://www.trawell.in/admin/images/upload/151648486Jaipur_Nahargarh_Fort_Main.jpg"
+        }
+      ],"lucknow":[
+        {
+            "id":"31",
+          "name": "Bara Imambara",
+          "description": "Bara Imambara is a grand Mughal-era monument with a labyrinthine network of passages. The central hall has the largest unsupported arched roof in the world, making it a marvel of architecture.",
+          "address": "Rumi Darwaza Road, Machchhi Bhavan, Lucknow, Uttar Pradesh, 226003",
+          "image": "https://indiano.travel/wp-content/uploads/2022/07/Bara-Imambara-is-a-complex-in-Lucknow-Uttar-Pradesh-in-India.-It-is-also-called-the-Asafi-Imambara.jpg"
+        },
+        {
+            "id":"32",
+          "name": "Chota Imambara",
+          "description": "Chota Imambara, also known as the 'Husainabad Imambara,' is a beautiful mosque known for its intricate decorations and a grand chandelier made of Belgian crystals.",
+          "address": "Ginnaur, Husainabad, Lucknow, Uttar Pradesh, 226003",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Chhota_imambara_Lucknow.jpg"
+        },
+        {
+            "id":"33",
+          "name": "Rumi Darwaza",
+          "description": "Rumi Darwaza is an imposing 18th-century gateway inspired by ancient Roman architecture. It stands as a symbolic entrance to the city of Lucknow and is an important historical landmark.",
+          "address": "Rumi Darwaza Road, Rumi Darwaza, Lucknow, Uttar Pradesh, 226003",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Roomi_darwaza.jpg"
+        },
+        {
+            "id":"34",
+          "name": "Hazratganj",
+          "description": "Hazratganj is a bustling shopping and cultural district in Lucknow. It offers a mix of modern shopping malls, traditional bazaars, and historical monuments, making it a vibrant urban center.",
+          "address": "Hazratganj, Lucknow, Uttar Pradesh, 226001",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Harzratganj_Market%2C_Lucknow.jpg/325px-Harzratganj_Market%2C_Lucknow.jpg"
+        },
+        {
+            "id":"35",
+          "name": "Ambedkar Memorial Park",
+          "description": "Ambedkar Memorial Park is a massive park and memorial dedicated to Dr. B.R. Ambedkar, the architect of the Indian Constitution. The park features impressive statues and beautiful gardens.",
+          "address": "Gomti Nagar, Lucknow, Uttar Pradesh, 226010",
+          "image": "https://lucknowtourism.co.in/images/places-to-visit/header/dr-ambedkar-park-lucknow-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+        }
+      ],"banaras":[
+        {
+          "name": "Kashi Vishwanath Temple",
+          "description": "Kashi Vishwanath Temple, a sacred Hindu shrine, is dedicated to Lord Shiva. It is one of the most revered temples in India and holds immense religious significance for devotees.",
+          "address": "Kashi Vishwanath Temple, Lahori Tola, Varanasi, Uttar Pradesh, 221001",
+          "image": "https://images.livemint.com/img/2021/12/12/600x338/PTI12-12-2021-000056A-0_1639307198512_1639307226578.jpg"
+        },
+        {
+          "name": "Dashashwamedh Ghat",
+          "description": "Dashashwamedh Ghat is a vibrant and ancient ghat located on the banks of the River Ganges. It is famous for its grand Ganga Aarti ceremony performed every evening.",
+          "address": "Dashashwamedh Ghat Road, Ghats of Varanasi, Godowlia, Varanasi, Uttar Pradesh, 221001",
+          "image": "https://www.varanasiguru.com/wp-content/uploads/2021/03/Dashashwamedh-Ghat.jpg"
+        }
+      ],"mumbai":[
+        {
+            "id":"38",
+          "name": "Gateway of India",
+          "description": "The Gateway of India is an iconic monument overlooking the Arabian Sea. Built during the British Raj, it serves as a symbol of India's maritime history and architectural grandeur.",
+          "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra, 400001",
+          "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/03/08/1cea4c76c7520f752970d00fd21cdc3c1678283144214296_original.jpg"
+        },
+        {
+            "id":"39",
+          "name": "Marine Drive",
+          "description": "Marine Drive is a picturesque promenade along the coastline of South Mumbai. Known as the 'Queen's Necklace,' it offers stunning views of the sea and a vibrant atmosphere at sunset.",
+          "address": "Netaji Subhash Chandra Bose Road, Marine Drive, Mumbai, Maharashtra, 400021",
+          "image": "https://images.indianexpress.com/2023/05/marine-drive.jpg"
+        }
+      ],"goa":[
+        {
+            "id":"40",
+          "name": "Baga Beach",
+          "description": "Baga Beach is a popular and lively destination in Goa known for its golden sandy shores and vibrant nightlife. It offers water sports, beach shacks, and a bustling flea market.",
+          "address": "Baga, North Goa, Goa, 403516",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=1200&h=1200&s=1"
+        },
+        {
+            "id":"41",
+          "name": "Dudhsagar Waterfalls",
+          "description": "Dudhsagar Waterfalls, situated on the Mandovi River, is a spectacular four-tiered cascade surrounded by lush greenery. Its milky white appearance gives it the name 'Sea of Milk.'",
+          "address": "Dudhsagar Waterfalls, Sonaulim, South Goa, Goa, 403410",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6f/62/34/caption.jpg?w=1200&h=-1&s=1"
+        }
+      ],"nainital":[
+        {
+            "id":"42",
+          "name": "Naini Lake",
+          "description": "Naini Lake, the centerpiece of Nainital, is a serene and scenic freshwater lake. It offers boating opportunities, surrounded by hills and vibrant markets, making it the heart of the town.",
+          "address": "Nainital, Uttarakhand, 263002",
+          "image": "https://i2.wp.com/www.navuttarakhand.com/wp-content/uploads/2016/09/nainital-naini-lake.jpg?fit=800%2C529&ssl=1"
+        },
+        {
+            "id":"43",
+          "name": "Naina Devi Temple",
+          "description": "Naina Devi Temple, perched on the northern shore of Naini Lake, is a revered Hindu shrine dedicated to Goddess Naina Devi. It offers spiritual solace and panoramic views of the lake.",
+          "address": "Naina Devi Temple, Nainital, Uttarakhand, 263002",
+          "image": "https://nainitaltourism.org.in/images/places-to-visit/headers/naina-devi-temple-nainital-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+        }
+      ]
+  }
+  
