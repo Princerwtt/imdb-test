@@ -1,334 +1,99 @@
 {
-  "place": [
-    {
-      "type": "tourist-spot",
-      "id": "1",
-      "attributes": {
-        "name": "Taj Mahal",
-        "description": "The Taj Mahal is an iconic white marble mausoleum in Agra. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
-        "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
-        "image": "https://lh3.googleusercontent.com/ci/AJFM8rwqPmT0tBf_V0DqHYN0QFacO8iNUd1rtHMfxNsPn1av1LSUShjNH9vuUMD9jjXAcAZnMW3GuEA=s1200"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "2",
-      "attributes": {
-        "name": "Jaipur",
-        "description": "Jaipur, known as the Pink City, is the capital of the Indian state of Rajasthan. It is famous for its magnificent palaces, forts, and vibrant markets.",
-        "address": "Jaipur, Rajasthan",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HawaMahal-Jaipur.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "3",
-      "attributes": {
-        "name": "Kerala Backwaters",
-        "description": "The Kerala Backwaters is a network of interconnected canals, rivers, and lakes. It offers scenic boat rides and a glimpse into the peaceful rural life of Kerala.",
-        "address": "Kerala",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Houseboats_at_Kerala_Backwaters.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "4",
-      "attributes": {
-        "name": "Varanasi",
-        "description": "Varanasi, also known as Benaras or Kashi, is one of the oldest inhabited cities in the world. It is a sacred city for Hindus and a major pilgrimage site.",
-        "address": "Varanasi, Uttar Pradesh",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Varanasiganga.jpg/800px-Varanasiganga.jpg?20070329113639"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "5",
-      "attributes": {
-        "name": "Mysore Palace",
-        "description": "The Mysore Palace is a magnificent royal palace located in Mysore, Karnataka. It is known for its Indo-Saracenic architecture and hosts a grand illumination every Sunday.",
-        "address": "Mysore, Karnataka",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "6",
-      "attributes": {
-        "name": "Golden Temple",
-        "description": "The Golden Temple, also known as Sri Harmandir Sahib, is a sacred Sikh shrine in Amritsar. Its gold-plated exterior and serene surroundings attract millions of visitors.",
-        "address": "Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006",
-        "image": "https://media.istockphoto.com/id/543179390/photo/golden-temple-the-main-sanctuary-of-sikhs-amritsar-india.jpg?s=612x612&w=0&k=20&c=s4bOWzg0e0ecBBPmuzIEShhrmMWFE16cnYlAZ7Nfdeg="
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "7",
-      "attributes": {
-        "name": "Goa Beaches",
-        "description": "Goa is famous for its stunning beaches along the Arabian Sea. It offers a mix of beautiful coastlines, vibrant nightlife, water sports, and a laid-back atmosphere.",
-        "address": "Goa",
-        "image": "https://media.istockphoto.com/id/621897226/photo/goa-beach-and-beautiful-sky-india.jpg?s=612x612&w=0&k=20&c=qDkllEUm9UpsXtfPlELdknkHMlgyT-kptQy6vAYFsM8="
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "8",
-      "attributes": {
-        "name": "Ajanta and Ellora Caves",
-        "description": "The Ajanta and Ellora Caves are a UNESCO World Heritage site in Maharashtra. They showcase magnificent rock-cut sculptures and ancient Buddhist, Jain, and Hindu temples.",
-        "address": "Aurangabad, Maharashtra",
-        "image": "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2019/10/Ajanta-and-Ellora-Caves-Aurangabad.jpg?fit=800%2C600&ssl=1"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "9",
-      "attributes": {
-        "name": "Jammu and Kashmir",
-        "description": "Kashmir is often referred to as 'Paradise on Earth' due to its breathtaking natural beauty. It is known for its snow-capped mountains, serene lakes, and picturesque valleys.",
-        "address": "Jammu and Kashmir",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/26/e4/5b/frozen-suru-river-winter.jpg?w=700&h=500&s=1"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "10",
-      "attributes": {
-        "name": "Hampi",
-        "description": "Hampi is a UNESCO World Heritage site located in Karnataka. It is home to the ruins of the Vijayanagara Empire and features ancient temples, monuments, and stunning landscapes.",
-        "address": "Hampi, Karnataka",
-        "image": "https://www.india.com/wp-content/uploads/2018/09/Vitthala-Temple-Hampi.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "11",
-      "attributes": {
-        "name": "Bhangarh Fort",
-        "description": "Bhangarh Fort is a haunted fort located in the Alwar district of Rajasthan, India. It is famous for its spooky legends and is considered one of the most haunted places in India.",
-        "address": "Alwar, Rajasthan",
-        "image": "https://images.hindustantimes.com/rf/image_size_640x362/HT/p1/2013/07/15/Incoming/Pictures/1092736_Wallpaper2.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "12",
-      "attributes": {
-        "name": "Dumas Beach",
-        "description": "Dumas Beach is a popular beach located along the Arabian Sea in Surat, Gujarat. It is known for its eerie atmosphere and ghostly stories associated with the place.",
-        "address": "Surat, Gujarat",
-        "image": "https://images.indianexpress.com/2022/07/dumas-two.jpg?resize=600,450"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "13",
-      "attributes": {
-        "name": "Dow Hill, Kurseong",
-        "description": "Dow Hill in Kurseong, West Bengal, is notorious for its haunted forest and the ominous sounds of footsteps heard by locals and visitors alike.",
-        "address": "Kurseong, West Bengal",
-        "image": "https://images.herzindagi.info/image/2021/Jan/best-places-to-visit-in-kurseong-west-bengal-trip.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "14",
-      "attributes": {
-        "name": "Ramoji Film City",
-        "description": "Ramoji Film City in Hyderabad, Telangana, is not only a popular film studio but also rumored to be haunted. Several paranormal activities have been reported on the sets.",
-        "address": "Hyderabad, Telangana",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202209/From_the_States_Telangana.jpg?VersionId=Zxtra8BH1rmP8xh0JTO5ZrHvgCktvtg5&size=690:388"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "15",
-      "attributes": {
-        "name": "Dow Hill, Kurseong",
-        "description": "Dow Hill in Kurseong, West Bengal, is notorious for its haunted forest and the ominous sounds of footsteps heard by locals and visitors alike.",
-        "address": "Kurseong, West Bengal",
-        "image": "https://www.whiteorchidtourandtravels.com/assets/images/destination/kurseong/kurseong.jpeg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "16",
-      "attributes": {
-        "name": "Morgan House",
-        "description": "Morgan House in Kalimpong, West Bengal, is a haunted mansion known for its ghostly apparitions and strange occurrences experienced by guests.",
-        "address": "Kalimpong, West Bengal",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/cb/0f/96/photo1jpg.jpg?w=700&h=500&s=1"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "17",
-      "attributes": {
-        "name": "GP Block",
-        "description": "GP Block in Meerut, Uttar Pradesh, is an abandoned mansion believed to be haunted by the ghosts of a group of friends who died under mysterious circumstances.",
-        "address": "Meerut, Uttar Pradesh",
-        "image": "https://bikingmystery.com/blog/wp-content/uploads/2019/03/GP-Block-Meerut.png"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "19",
-      "attributes": {
-        "name": "Fernhill Hotel",
-        "description": "Fernhill Hotel in Ooty, Tamil Nadu, is a reputed haunted hotel where guests have reported encountering supernatural phenomena and sightings of apparitions.",
-        "address": "Ooty, Tamil Nadu",
-        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH77205244300428/QS1042/QS1042-Q1/1675327030370.jpeg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "20",
-      "attributes": {
-        "name": "Brij Raj Bhavan Palace",
-        "description": "Brij Raj Bhavan Palace in Kota, Rajasthan, is believed to be haunted by the ghost of Major Burton, a British officer who was killed during the 1857 uprising.",
-        "address": "Kota, Rajasthan",
-        "image": "https://staticimg.amarujala.com/assets/images/2021/09/18/750x506/mysterious-story-of-haunted-brij-raj-bhawan-palace-in-kota-rajasthan_1631947059.jpeg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "21",
-      "attributes": {
-        "name": "Shimla",
-        "description": "Shimla is the capital city of the Indian state of Himachal Pradesh. It is a popular hill station known for its pleasant weather, colonial architecture, and scenic views of the Himalayas.",
-        "address": "Shimla, Himachal Pradesh",
-        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Shimla-Himachal-Pradesh-Feature.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "22",
-      "attributes": {
-        "name": "Darjeeling",
-        "description": "Darjeeling is a beautiful hill town located in the Indian state of West Bengal. It is famous for its tea gardens, toy train, panoramic views of the Kangchenjunga peak, and pleasant weather.",
-        "address": "Darjeeling, West Bengal",
-        "image": "https://www.tusktravel.com/blog/wp-content/uploads/2021/07/Darjeeling2.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "23",
-      "attributes": {
-        "name": "Manali",
-        "description": "Manali is a picturesque hill station situated in the Indian state of Himachal Pradesh. It offers breathtaking views of the snow-capped mountains, lush valleys, and serene landscapes, making it a popular destination for tourists.",
-        "address": "Manali, Himachal Pradesh",
-        "image": "https://www.authenticindiatours.com/app/uploads/2022/05/Tibetan-Monastery-Manali-Town-Himachal-Pradesh-1.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "24",
-      "attributes": {
-        "name": "Nainital",
-        "description": "Nainital is a popular hill station situated in the Indian state of Uttarakhand. It is known for itssparkling lakes, lush green hills, pleasant weather, and a range of outdoor activities like boating, trekking, and wildlife viewing.",
-        "address": "Nainital, Uttarakhand",
-        "image": "https://www.ghoomakard.com/wp-content/uploads/2021/12/saylee-kale1.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "25",
-      "attributes": {
-        "name": "Munnar",
-        "description": "Munnar is a breathtaking hill station located in the Western Ghats of Kerala, India. It is known for its tea estates, mist-covered hills, waterfalls, and pleasant climate, making it a popular destination for nature lovers.",
-        "address": "Munnar, Kerala",
-        "image": "https://images.thrillophilia.com/image/upload/s--bejISfVD--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/126/889/original/1522671846_Munnar.jpg.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "26",
-      "attributes": {
-        "name": "Gulmarg",
-        "description": "Gulmarg is a scenic hill station located in the Indian union territory of Jammu and Kashmir. It is famous for its snow-covered slopes, skiing opportunities, lush meadows, and enchanting landscapes.",
-        "address": "Gulmarg, Jammu and Kashmir",
-        "image": "https://www.hlimg.com/images/places2see/738X538/landscape-ge219f64af-1280_1685105725-5246e.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "27",
-      "attributes": {
-        "name": "Mahabaleshwar",
-        "description": "Mahabaleshwar is a scenic hill station situated in the Western Ghats of Maharashtra, India. It is known for its pleasant weather, breathtaking viewpoints, strawberry farms, and serene landscapes.",
-        "address": "Mahabaleshwar, Maharashtra",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d7/a9/a2/view-of-rock-formation.jpg?w=600&h=400&s=1"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "28",
-      "attributes": {
-        "name": "Agra Fort",
-        "description": "Agra Fort, also known as the Red Fort of Agra, is a historical fort located in Agra, Uttar Pradesh, India. It was the main residence of the emperors of the Mughal Dynasty until 1638 when the capital was shifted from Agra to Delhi. The fort is a UNESCO World Heritage site and is known for its beautiful architecture and rich history.",
-        "address": "Rakabganj, Agra, Uttar Pradesh 282003",
-        "image": "https://www.tajmahal.gov.in/images/gallery/agra-fort/1.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "29",
-      "attributes": {
-        "name": "Mount Abu",
-        "description": "Mount Abu is a beautiful hill station situated in the Aravalli Range of Rajasthan, India. It is known for its cool climate, stunning sunsets, Nakki Lake, and the famous Dilwara Temples.",
-        "address": "Mount Abu, Rajasthan",
-        "image": "https://www.trawell.in/admin/images/upload/169351384Mount_Abu_Sunset_Point_Main.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "30",
-      "attributes": {
-        "name": "Qutub Minar",
-        "description": "Qutub Minar is a towering minaret and UNESCO World Heritage Site in Delhi. It is a masterpiece of Indo-Islamic architecture and a popular tourist attraction.",
-        "address": "Mehrauli, New Delhi, Delhi 110030",
-        "image": "https://media.istockphoto.com/id/165204592/photo/qutub-minar-delhi-india.jpg?s=612x612&w=0&k=20&c=YvFLPmQmlgCyX7RGZA1VpKctdC6QsChINzLSMDPNI9k="
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "31",
-      "attributes": {
+    "delhi": [
+      {
+        "id":"1",
         "name": "Red Fort",
-        "description": "Red Fort, also known as Lal Qila, is an iconic fortress located in Old Delhi. It served as the main residence of the Mughal Emperors and showcases impressive architectural features.",
-        "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/59/70/42/caption.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "32",
-      "attributes": {
-        "name": "India Gate",
-        "description": "India Gate is a war memorial and prominent landmark in Delhi. It commemorates the soldiers of the Indian Army who lost their lives in various conflicts and is surrounded by beautifully maintained lawns.",
-        "address": "Rajpath, India Gate, New Delhi, Delhi 110001",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/7b/c2/picture-clicked-at-the.jpg"
-      }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "33",
-      "attributes": {
-        "name": "Humayun's Tomb",
-        "description": "Humayun's Tomb is a magnificent mausoleum and UNESCO World Heritage Site in Delhi. It is a fine example of Mughal architecture and inspired the construction of the Taj Mahal.",
-        "address": "Mathura Road, Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi, Delhi 110013",
+
+        "description": "Humayun's Tomb is a magnificent Mughal mausoleum, considered a precursor to the Taj Mahal. Its stunning architecture and well-maintained gardens make it a must-visit for history and architecture enthusiasts.",
+        "address": "Mathura Road, Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi, Delhi, 110013",
         "image": "https://cdn.britannica.com/54/156454-050-4E72CEE0/Humayuns-Tomb-Hamidah-Banu-Begam-Delhi-India-1569.jpg"
       }
-    },
-    {
-      "type": "tourist-spot",
-      "id": "34",
-      "attributes": {
-        "name": "Akshardham Temple",
-        "description": "Akshardham Temple is a magnificent Hindu temple complex in Delhi. It showcases stunning architecture, intricate carvings, and offers various exhibitions and cultural shows.",
-        "address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092",
-        "image": "https://media.easemytrip.com/media/Blog/India/637116640324801740/637116640324801740ptZ4Mc.jpg"
-      }
-    }
-  ]
-}
+    ],
+    "jammu & kashmir":[
+        {
+            "id":"6",
+          "name": "Dal Lake",
+
+          "address": "Betaab Valley Road, Pahalgam, Jammu and Kashmir, 192126",
+          "image": "https://www.tourmyindia.com/socialimg/betaab-valley-pahalgam.jpg"
+        }
+      ],"shimla":[
+        {
+            "id":"11",
+          "name": "The Ridge, Shimla",
+
+          "address": "Summer Hill, Shimla, Himachal Pradesh, 171005",
+          "image": "https://shimlatourism.co.in/images/places-to-visit/headers/summer-hill-shimla-india-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+        }
+      ],"manali":[
+        {
+            "id":"16",
+          "name": "Rohtang Pass",
+
+          "address": "Old Manali, Manali, Himachal Pradesh, 175131",
+          "image": "https://jannattravelguru.com/wp-content/uploads/2023/03/old-manali.jpg"
+        }
+      ], "chandigarh":[
+        {
+            "id":"21",
+          "name": "Rock Garden",
+
+          "address": "Sector 10, Chandigarh, 160011",
+          "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/06/Chandigarh-og2.jpg"
+        }
+      ],"jaipur":[
+        {
+            "id":"26",
+          "name": "Amber Fort",
+
+          "address": "Nahar Garh Road, Krishna Nagar, Brahampuri, Jaipur, Rajasthan, 302002",
+          "image": "https://www.trawell.in/admin/images/upload/151648486Jaipur_Nahargarh_Fort_Main.jpg"
+        }
+      ],"lucknow":[
+        {
+            "id":"31",
+          "name": "Bara Imambara",
+
+          "address": "Gomti Nagar, Lucknow, Uttar Pradesh, 226010",
+          "image": "https://lucknowtourism.co.in/images/places-to-visit/header/dr-ambedkar-park-lucknow-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+        }
+      ],"banaras":[
+        {
+          "name": "Kashi Vishwanath Temple",
+          "description": "Kashi Vishwanath Temple, a sacred Hindu shrine, is dedicated to Lord Shiva. It is one of the most revered temples in India and holds immense religious significance for devotees.",
+
+          "address": "Dashashwamedh Ghat Road, Ghats of Varanasi, Godowlia, Varanasi, Uttar Pradesh, 221001",
+          "image": "https://www.varanasiguru.com/wp-content/uploads/2021/03/Dashashwamedh-Ghat.jpg"
+        }
+      ],"mumbai":[
+        {
+            "id":"38",
+          "name": "Gateway of India",
+
+          "address": "Netaji Subhash Chandra Bose Road, Marine Drive, Mumbai, Maharashtra, 400021",
+          "image": "https://images.indianexpress.com/2023/05/marine-drive.jpg"
+        }
+      ],"goa":[
+        {
+            "id":"40",
+          "name": "Baga Beach",
+          "address": "Dudhsagar Waterfalls, Sonaulim, South Goa, Goa, 403410",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6f/62/34/caption.jpg?w=1200&h=-1&s=1"
+        }
+      ],"nainital":[
+        {
+            "id":"42",
+          "name": "Naini Lake",
+          "description": "Naini Lake, the centerpiece of Nainital, is a serene and scenic freshwater lake. It offers boating opportunities, surrounded by hills and vibrant markets, making it the heart of the town.",
+          "address": "Nainital, Uttarakhand, 263002",
+          "image": "https://i2.wp.com/www.navuttarakhand.com/wp-content/uploads/2016/09/nainital-naini-lake.jpg?fit=800%2C529&ssl=1"
+        },
+        {
+            "id":"43",
+          "name": "Naina Devi Temple",
+          "description": "Naina Devi Temple, perched on the northern shore of Naini Lake, is a revered Hindu shrine dedicated to Goddess Naina Devi. It offers spiritual solace and panoramic views of the lake.",
+          "address": "Naina Devi Temple, Nainital, Uttarakhand, 263002",
+          "image": "https://nainitaltourism.org.in/images/places-to-visit/headers/naina-devi-temple-nainital-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+        }
+      ]
+  }
