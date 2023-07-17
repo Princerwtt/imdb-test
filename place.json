@@ -216,13 +216,7 @@
           "image": "https://www.trawell.in/admin/images/upload/151648486Jaipur_Nahargarh_Fort_Main.jpg"
         }
       ,
-        {
-            "id":"31",
-          "name": "Bara Imambara",
-          "description": "Bara Imambara is a grand Mughal-era monument with a labyrinthine network of passages. The central hall has the largest unsupported arched roof in the world, making it a marvel of architecture.",
-          "address": "Rumi Darwaza Road, Machchhi Bhavan, Lucknow, Uttar Pradesh, 226003",
-          "image": "https://indiano.travel/wp-content/uploads/2022/07/Bara-Imambara-is-a-complex-in-Lucknow-Uttar-Pradesh-in-India.-It-is-also-called-the-Asafi-Imambara.jpg"
-        },
+       
         {
             "id":"32",
           "name": "Chota Imambara",
