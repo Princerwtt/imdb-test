@@ -1,5 +1,5 @@
 {
-    "delhi": [
+    "place": [
       {
         "id":"1",
         "name": "Red Fort",
@@ -34,9 +34,8 @@
         "description": "Humayun's Tomb is a magnificent Mughal mausoleum, considered a precursor to the Taj Mahal. Its stunning architecture and well-maintained gardens make it a must-visit for history and architecture enthusiasts.",
         "address": "Mathura Road, Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi, Delhi, 110013",
         "image": "https://cdn.britannica.com/54/156454-050-4E72CEE0/Humayuns-Tomb-Hamidah-Banu-Begam-Delhi-India-1569.jpg"
-      }
-    ],
-    "jammu & kashmir":[
+      },
+    
         {
             "id":"6",
           "name": "Dal Lake",
@@ -72,7 +71,7 @@
           "address": "Betaab Valley Road, Pahalgam, Jammu and Kashmir, 192126",
           "image": "https://www.tourmyindia.com/socialimg/betaab-valley-pahalgam.jpg"
         }
-      ],"shimla":[
+      ,
         {
             "id":"11",
           "name": "The Ridge, Shimla",
@@ -108,7 +107,7 @@
           "address": "Summer Hill, Shimla, Himachal Pradesh, 171005",
           "image": "https://shimlatourism.co.in/images/places-to-visit/headers/summer-hill-shimla-india-tourism-entry-fee-timings-holidays-reviews-header.jpg"
         }
-      ],"manali":[
+      ,
         {
             "id":"16",
           "name": "Rohtang Pass",
@@ -144,7 +143,7 @@
           "address": "Old Manali, Manali, Himachal Pradesh, 175131",
           "image": "https://jannattravelguru.com/wp-content/uploads/2023/03/old-manali.jpg"
         }
-      ], "chandigarh":[
+      ,
         {
             "id":"21",
           "name": "Rock Garden",
@@ -180,7 +179,7 @@
           "address": "Sector 10, Chandigarh, 160011",
           "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/06/Chandigarh-og2.jpg"
         }
-      ],"jaipur":[
+      ,
         {
             "id":"26",
           "name": "Amber Fort",
@@ -216,7 +215,7 @@
           "address": "Nahar Garh Road, Krishna Nagar, Brahampuri, Jaipur, Rajasthan, 302002",
           "image": "https://www.trawell.in/admin/images/upload/151648486Jaipur_Nahargarh_Fort_Main.jpg"
         }
-      ],"lucknow":[
+      ,
         {
             "id":"31",
           "name": "Bara Imambara",
@@ -252,7 +251,7 @@
           "address": "Gomti Nagar, Lucknow, Uttar Pradesh, 226010",
           "image": "https://lucknowtourism.co.in/images/places-to-visit/header/dr-ambedkar-park-lucknow-tourism-entry-fee-timings-holidays-reviews-header.jpg"
         }
-      ],"banaras":[
+      ,
         {
           "name": "Kashi Vishwanath Temple",
           "description": "Kashi Vishwanath Temple, a sacred Hindu shrine, is dedicated to Lord Shiva. It is one of the most revered temples in India and holds immense religious significance for devotees.",
@@ -265,7 +264,7 @@
           "address": "Dashashwamedh Ghat Road, Ghats of Varanasi, Godowlia, Varanasi, Uttar Pradesh, 221001",
           "image": "https://www.varanasiguru.com/wp-content/uploads/2021/03/Dashashwamedh-Ghat.jpg"
         }
-      ],"mumbai":[
+      ,
         {
             "id":"38",
           "name": "Gateway of India",
@@ -280,7 +279,7 @@
           "address": "Netaji Subhash Chandra Bose Road, Marine Drive, Mumbai, Maharashtra, 400021",
           "image": "https://images.indianexpress.com/2023/05/marine-drive.jpg"
         }
-      ],"goa":[
+      ,
         {
             "id":"40",
           "name": "Baga Beach",
@@ -295,7 +294,7 @@
           "address": "Dudhsagar Waterfalls, Sonaulim, South Goa, Goa, 403410",
           "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6f/62/34/caption.jpg?w=1200&h=-1&s=1"
         }
-      ],"nainital":[
+      ,
         {
             "id":"42",
           "name": "Naini Lake",
