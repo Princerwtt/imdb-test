@@ -1,0 +1,89 @@
+{
+    "cities": [
+      {
+        "id": 1,
+        "name": "Jammu",
+        "heading": "The Winter Capital of Jammu and Kashmir",
+        "description": "Jammu is a beautiful city located in the northernmost state of India, Jammu and Kashmir. It is famous for its stunning landscapes, ancient temples, and historic forts. The city offers a pleasant climate and serves as a base for tourists exploring the nearby Vaishno Devi shrine and the scenic Kashmir valley.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mubarak_Mandi_Complex.jpg/266px-Mubarak_Mandi_Complex.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Kashmir",
+        "heading": "The Paradise on Earth",
+        "description": "Kashmir is a mesmerizing region in the Indian-administered union territory of Jammu and Kashmir. Known for its breathtaking natural beauty, it is often referred to as 'Paradise on Earth.' The serene lakes, lush meadows, and snow-capped mountains make Kashmir a popular destination for nature lovers and adventure enthusiasts.",
+        "image": "https://assets.gqindia.com/photos/616d2712c93aeaf2a32d61fe/16:9/pass/top-image%20(1).jpg"
+      },
+      {
+        "id": 3,
+        "name": "Shimla",
+        "heading": "The Queen of Hill Stations",
+        "description": "Shimla, the capital city of the Indian state of Himachal Pradesh, is a charming hill station situated in the foothills of the Himalayas. It attracts tourists with its colonial architecture, picturesque landscapes, and pleasant weather. Shimla offers a perfect blend of history, nature, and adventure, making it a popular destination throughout the year.",
+        "image": "https://static.toiimg.com/photo/57916884.cms?imgsize=391546"
+      },
+      {
+        "id": 4,
+        "name": "Manali",
+        "heading": "A Haven for Nature Lovers and Adventurers",
+        "description": "Manali is a beautiful hill town nestled in the Kullu Valley of Himachal Pradesh. Surrounded by towering mountains and lush forests, Manali offers a serene and breathtaking escape. It is a favorite destination for trekkers, backpackers, and honeymooners alike, with opportunities for skiing, paragliding, and exploring the nearby Rohtang Pass.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chandigarh",
+        "heading": "India's First Planned City",
+        "description": "Chandigarh is a unique and well-planned city that serves as the capital of both Punjab and Haryana states. Designed by the renowned architect Le Corbusier, the city boasts impressive modernist architecture, beautiful gardens, and a high standard of living. Chandigarh is also a gateway to the scenic hill stations of Himachal Pradesh.",
+        "image": "https://www.mistay.in/travel-blog/content/images/size/w2000/2018/03/chandigarh.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Delhi",
+        "heading": "The Capital City of India",
+        "description": "Delhi, the capital of India, is a vibrant and bustling metropolis that seamlessly blends modernity with history. It is home to iconic landmarks like the Red Fort, India Gate, and Qutub Minar, as well as bustling markets and a diverse culinary scene. Delhi's rich cultural heritage and architectural wonders make it a must-visit destination.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Delhi_Montage.jpg/250px-Delhi_Montage.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Jaipur",
+        "heading": "The Pink City",
+        "description": "Jaipur, the capital city of Rajasthan, is known as the Pink City due to the color of its historic buildings. It is a city steeped in royal history and cultural heritage, offering magnificent palaces, forts, and vibrant bazaars. Visitors can experience the grandeur of Rajasthan's past and indulge in the rich Rajasthani cuisine and arts.",
+        "image": "https://m.media-amazon.com/images/I/91p0E20FA5L._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Lucknow",
+        "heading": "The City of Nawabs",
+        "description": "Lucknow, the capital city of Uttar Pradesh, is renowned for its gracious hospitality, traditional culture, and mouthwatering cuisine. It is often referred to as the City of Nawabs, owing to its historical association with the Nawabs of Awadh. Lucknow offers a blend of ancient architecture, bustling markets, and a warm and welcoming atmosphere.",
+        "image": "https://ghoomophiro.com/wp-content/uploads/2022/10/Places-to-visit-in-lucknow-scaled.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Banaras",
+        "heading": "The Spiritual Capital of India",
+        "description": "Banaras, also known as Varanasi, is one of the oldest continuously inhabited cities in the world. Located on the banks of the sacred Ganges River, it is a significant spiritual and religious center for Hindus. Banaras is famous for its ghats, where pilgrims gather to perform rituals and witness the mesmerizing Ganga Aarti ceremony.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ahilya_Ghat_by_the_Ganges%2C_Varanasi.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Mumbai",
+        "heading": "The City of Dreams",
+        "description": "Mumbai, the financial capital of India, is a bustling metropolis known for its fast-paced lifestyle, Bollywood film industry, and impressive skyline. It is a melting pot of cultures and offers a vibrant nightlife, historical landmarks, and iconic street food. Mumbai's energy and dynamism attract people from all over the country in pursuit of their dreams.",
+        "image": "https://www.savaari.com/blog/wp-content/uploads/2021/12/1024px-Mumbai_Aug_2018_43397784544-1024x761.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Goa",
+        "heading": "A Tropical Paradise",
+        "description": "Goa is a coastal state known for its beautiful beaches, vibrant nightlife, and distinct Portuguese heritage. It is a popular tourist destination, attracting visitors with its laid-back atmosphere, water sports, and beach parties. Goa's unique blend of Indian and Western influences makes it a favorite spot for both domestic and international travelers.",
+        "image": "https://tds.indianeagle.com/wp-content/uploads/2023/02/Travel-guide-to-GOA.png"
+      },
+      {
+        "id": 12,
+        "name": "Nainital",
+        "heading": "The Lake District of India",
+        "description": "Nainital is a charming hill station located in the Kumaon region of Uttarakhand. Surrounded by mountains and adorned with picturesque lakes, Nainital offers a peaceful and scenic retreat. The Naini Lake, in particular, is a major attraction, where visitors can enjoy boating and take in the stunning views of the surrounding hills.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nainital_metro.jpg"
+      }
+    ]
+  }
+  
